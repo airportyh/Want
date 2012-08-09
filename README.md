@@ -46,3 +46,8 @@ What `want` Can`t Do
 --------------------
 
 `want` does not support nested dependencies. The "wanted" JS files must be self-sufficient - *not have any dependencies*.
+
+Install
+-------
+
+    npm install want
