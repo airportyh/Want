@@ -1,0 +1,9 @@
+src_files:
+- ./*.js
+launchers:
+    Node: 
+        cmd: mocha tests.js -R tap
+        protocol: tap
+        hide_stdout: true
+auto_launch_in_dev:
+- Node

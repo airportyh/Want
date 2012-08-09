@@ -1,0 +1,21 @@
+{
+  "name": "want",
+  "version": "0.0.0",
+  "description": "Use objects and function from any plain JS files in your Node Program.",
+  "main": "want.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "dependencies": {
+    "esprima": "*"
+  },
+  "devDependencies": {
+    "chai": "*"
+  },
+  "repository": "",
+  "keywords": [
+    "module"
+  ],
+  "author": "Toby Ho",
+  "license": "MIT"
+}
