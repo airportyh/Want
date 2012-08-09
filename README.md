@@ -1,4 +1,4 @@
-*Want*: use any functions or objects defined in plain JS files
+*Want*: Use Functions Or Objects From Plain Ol' JS Files
 ==============================================================
 
 `want` is like `require` except it can import symbols from plain ol` Javascript files - ones that do not use the commonJS system to export symbols.
@@ -6,7 +6,7 @@
 Example 1: `want`-ing a single symbol
 -------------------------------------
 
-You have a hello.js whose contents are
+You have a `hello.js` whose contents are
 
     function hello(){
         return 'hello world'
